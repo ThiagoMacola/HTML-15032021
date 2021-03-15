@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(234, 240, 243);
+}
+h1 {
+    color: rgb(12, 12, 12);
+    font-style: italic;
+    
+    
+}
+
+
+h4{
+    font-size: 12px;     
+    font-family: Verdana
+}
+
+
+h3 {
+    color:darkgreen;
+    font-style: italic;
+    font-size: 1.2em;;
+}
+
+p {
+    color: red;
+}
+
+
+figure{
+    float: left;
+    width: 20%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
